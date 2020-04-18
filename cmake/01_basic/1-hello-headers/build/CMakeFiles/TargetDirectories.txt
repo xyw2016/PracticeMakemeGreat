@@ -1,0 +1,3 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/1-hello-headers/build/CMakeFiles/rebuild_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/1-hello-headers/build/CMakeFiles/hello_headers.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/1-hello-headers/build/CMakeFiles/edit_cache.dir
