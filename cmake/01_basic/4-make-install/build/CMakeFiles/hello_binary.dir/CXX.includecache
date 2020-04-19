@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/shared/hello.h
+
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/src/main.cpp
+shared/hello.h
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/src/shared/hello.h
+

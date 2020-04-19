@@ -1,0 +1,8 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/install/strip.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/install/local.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/edit_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/rebuild_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/hello_binary.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/list_install_components.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/hello_library.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/CMakeFiles/install.dir

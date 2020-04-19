@@ -1,0 +1,4 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/install/bin/hello_binary
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/install/lib/libhello_library.so
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/install/include/shared/hello.h
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/4-make-install/build/install/etc/cmake-examples.conf
