@@ -1,0 +1,4 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/3-shared-library/build/CMakeFiles/rebuild_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/3-shared-library/build/CMakeFiles/edit_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/3-shared-library/build/CMakeFiles/hello_library.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/3-shared-library/build/CMakeFiles/hello_binary.dir
