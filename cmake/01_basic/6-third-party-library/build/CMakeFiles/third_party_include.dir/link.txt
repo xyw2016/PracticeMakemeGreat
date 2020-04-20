@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/third_party_include.dir/main.cpp.o  -o third_party_include -Wl,-rpath,/home/xyw/boost/lib /home/xyw/boost/lib/libboost_filesystem.so /home/xyw/boost/lib/libboost_system.so 

@@ -1,0 +1,3 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/6-third-party-library/build/CMakeFiles/rebuild_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/6-third-party-library/build/CMakeFiles/third_party_include.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/6-third-party-library/build/CMakeFiles/edit_cache.dir

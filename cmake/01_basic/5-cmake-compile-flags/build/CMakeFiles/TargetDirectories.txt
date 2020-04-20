@@ -1,0 +1,3 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/5-cmake-compile-flags/build/CMakeFiles/rebuild_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/5-cmake-compile-flags/build/CMakeFiles/cmake_example_compile_flags.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/5-cmake-compile-flags/build/CMakeFiles/edit_cache.dir
