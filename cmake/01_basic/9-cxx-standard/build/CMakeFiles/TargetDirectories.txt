@@ -1,0 +1,3 @@
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/9-cxx-standard/build/CMakeFiles/rebuild_cache.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/9-cxx-standard/build/CMakeFiles/hello_cpp11.dir
+/media/xyw/windows/linuxfile/code/keeping_learning/cmake/01_basic/9-cxx-standard/build/CMakeFiles/edit_cache.dir
